@@ -1,0 +1,7 @@
+{
+  "name": "Elite Corporate Catering",
+  "description": "Premium catering service platform for corporate events, seminars, and exhibitions with admin management capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
